@@ -1,0 +1,25 @@
+@import '../../assets/style/border.scss';
+.tabbar{
+  background-color: #fff;
+  ul{
+    height: 0.45rem;
+    @include border(#ccc,0.01rem 0 0 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    li{
+      a{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        span{
+          font-size: 0.12rem;
+        }
+      }
+      .active{
+        color:#e22626
+      }
+    }
+  }
+}

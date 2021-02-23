@@ -1,0 +1,121 @@
+.shop_list_box{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  .shop_list_type{
+    display: flex;
+    background-color: #fff;
+    height: 0.4rem;
+    span{
+      display: block;
+      width: 25%;
+      text-align: center;
+      line-height: 0.4rem;
+    }
+    .active{
+      color:#e22626;
+      border-bottom:0.02rem solid #e22626;
+      font-weight: bold;
+    }
+  }
+  .tab{
+    background-color: #e22626;
+    span{
+      color:#fff
+    }
+    i{
+      color: white;
+      -webkit-text-stroke: 2px #e22626
+    }
+  }
+  .shop-list{
+    height:100%;
+    overflow: auto;
+    padding: 0.1rem;
+    li{
+      background-color: #fff;
+      border-radius: 0.05rem;
+      margin-bottom: 0.1rem;
+      padding: 0.1rem;
+      a{
+        display: flex;
+        .img-box{
+          margin-right: 0.2rem;
+          img{
+            width: 1.26rem;
+          }
+        }
+        .content-box{
+          display: flex;
+          flex-direction: column;
+          height: 1.26rem;
+          overflow: hidden;
+          h3{
+            font-weight: normal;
+            color:#333;
+            font-size: 0.14rem;
+            text-align: left;
+            margin-bottom:0.15rem;
+          }
+          p{
+            font-size: 0.1rem;
+            color:#333;
+            text-align: left;
+  
+            em{
+              font-style:normal;
+              color: #FF2B22;
+              font-size: 0.16rem;
+              i{
+                font-style:normal;
+                color: #FF2B22;
+                font-size: 0.1rem;
+              }
+            }
+          }
+          span{
+            background: linear-gradient(90deg,#ff8873 0,#ff4f4f 100%);
+            font-size: 0.1rem;
+            color:#fff;
+            border-radius: 0.02rem;
+            padding: 0.01rem 0.04rem;
+            margin:0.06rem 0;
+            width: fit-content;
+          }
+          i{
+            font-size: 0.1rem;
+            color:#888;
+            text-align: left;
+            font-style:normal
+          }
+        }
+      }
+    }
+  }
+}
+
+.go_top{
+  position: absolute;
+  background-color: rgba(51,51,51,.8);
+  width:0.36rem ;
+  height: 0.36rem;
+  border-radius: 0.18rem;
+  bottom: 0.5rem;
+  right: 0.3rem;
+  &::after{
+    content: '';
+    display: block;
+    position: absolute;
+    top:0.05rem;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0.1rem;
+    height: 0.1rem;
+    border-top:0.02rem solid #fff;
+    border-left:0.02rem solid #fff;
+    transform: rotate(45deg);
+  }
+}

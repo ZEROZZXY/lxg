@@ -1,0 +1,60 @@
+@import '../../assets/style/border.scss';
+.set-page{
+  .info{
+    display: flex;
+    align-items: center;
+    padding: 0.15rem;
+    position: relative;
+    @include border(#666,0.01rem 0 0 0);
+    background-color: #fff;
+    margin-bottom: 0.1rem;
+    img{
+      width: 0.6rem;
+      margin-right: 0.1rem;
+      border-radius: 50%;
+    }
+    span{
+      color:#333;
+      font-size: 0.16rem;
+    }
+    i{
+      position: absolute;
+      right: 0.15rem;
+      font-size: 0.14rem;
+      padding: 0.02rem 0.04rem;
+      border:0.01rem solid rgb(245, 99, 14);
+      border-radius: 0.04rem;
+      color:rgb(245, 99, 14)
+    }
+  }
+  
+  .set-line{
+    display: block;
+    height: 0.4rem;
+    line-height: 0.4rem;
+    background-color: #fff;
+    padding: 0 0.15rem;
+    color:#333;
+    li,>a{
+      @include border(#e5e5e5,0 0 0.01rem 0);
+      display: flex;
+      justify-content: space-between;
+      span{
+        color:#333
+      }
+      i{
+        line-height: 0.4rem;
+        color:#999;
+        -webkit-text-stroke: 0.01rem #fff
+      }
+    }
+    
+  }
+  .bottom-line{
+    li{
+      @include border(#fff,0 0 0.01rem 0);
+    }
+    margin-bottom: 0.1rem;
+  }
+  
+}

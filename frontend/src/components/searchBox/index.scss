@@ -1,0 +1,34 @@
+.searchBox{
+  height: 0.46rem;
+  background-color: #c82519;
+  display: flex;
+  padding:0 0.05rem;
+  a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    span{
+      color:#fff;
+      font-size: 0.14rem;
+    }
+  }
+  .searchLink{
+    position: relative;
+    width: 90%;
+      input{
+        width: 95%;
+        height: 0.3rem;
+        border: none;
+        border-radius: 0.15rem;
+        text-indent: 0.3rem;
+        font-size: 0.14rem;
+      }
+      i{
+        position: absolute;
+        left: 0.2rem;
+        color:#999;
+        -webkit-text-stroke: 1px #fff
+      }
+  }
+
+}

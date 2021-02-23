@@ -1,0 +1,545 @@
+{
+  "time": 1582613237813,
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "list": [
+      {
+        "createTime": "2020-02-24 21:51:05",
+        "goodsId": "45495763965",
+        "huodongType": 3,
+        "hzQuanOver": 0,
+        "id": 24849548,
+        "pic": "https://img.alicdn.com/imgextra/i1/1793957219/O1CN01EzAKef23CLmh3wGOE_!!1793957219.jpg",
+        "quanId": "b6f9d0f6477242fca834d1355f6487ec",
+        "quanJine": 70.0,
+        "salesNum": 125,
+        "startTime": "2020-03-05 00:00:00",
+        "title": "【女王节】雅顿金胶时空焕活胶囊精华液约60粒保湿淡纹面部精华",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 9380,
+        "yuanjia": 690.0,
+        "fashionTag": "官方旗舰店,聚划算",
+        "jiage": 620.0,
+        "marketId": "15",
+        "smallLabel": {
+          "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01vI4duD2JJi04R7tux_!!2053469401.png",
+          "width": 240,
+          "height": 40
+        },
+        "normalLabel": {
+          "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01WAYUGY2JJi031Uq3O_!!2053469401.png",
+          "width": 346,
+          "height": 46,
+          "margin": [
+            32,
+            0,
+            4,
+            32
+          ]
+        },
+        "normalLabelText": "定金80",
+        "basePriceText": "到手",
+        "basePrice": "预售价",
+        "baseSaleNumText": "已定",
+        "thirtySellNun": 20617,
+        "promotion": "",
+        "labelOne": "爆款",
+        "labelTwo": "旗舰店",
+        "comments": "评价6万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 3,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          },
+          {
+            "type": "normal",
+            "val": "爆款"
+          }
+        ],
+        "renqi": 106.628,
+        "dtitle": "得116粒【伊丽莎白雅顿】金胶",
+        "lowest": 0,
+        "quanMLink": "80",
+        "comment": 64944,
+        "market_group": [
+          15
+        ]
+      },
+      {
+        "createTime": "2020-02-24 17:21:04",
+        "goodsId": "588173069867",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24846463,
+        "pic": "https://img.alicdn.com/imgextra/i3/1611815141/O1CN01GFCb8Q1nqckw7U4Qa_!!1611815141.png",
+        "quanId": "89398a98d1b9496fb1ef79c48b52166d",
+        "quanJine": 3.0,
+        "salesNum": 2891,
+        "startTime": "2020-02-25 00:00:00",
+        "title": "吉香居牛肉酱暴下饭菜拌饭酱香菇酱四川辣椒酱下饭酱拌面酱250g*2",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 94476,
+        "yuanjia": 24.8,
+        "fashionTag": "官方旗舰店,爆款",
+        "jiage": 21.8,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 158150,
+        "promotion": "",
+        "labelOne": "爆款",
+        "labelTwo": "旗舰店",
+        "comments": "评价19万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          },
+          {
+            "type": "normal",
+            "val": "爆款"
+          }
+        ],
+        "renqi": 106.31,
+        "dtitle": "【第2件1元，2件4瓶】吉香居暴下饭酱",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 193557,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-24 22:19:05",
+        "goodsId": "577550005785",
+        "huodongType": 3,
+        "hzQuanOver": 0,
+        "id": 24849925,
+        "pic": "https://img.alicdn.com/imgextra/i4/1793957219/O1CN01V4oaOR23CLmeREllN_!!1793957219.jpg",
+        "quanId": "e41ec5193feb417e9e23f4ec07eaa74f",
+        "quanJine": 70.0,
+        "salesNum": 269,
+        "startTime": "2020-03-05 00:00:00",
+        "title": "【女王节】雅顿小粉胶时空焕活夜间多效胶囊精华约60粒视黄醇淡纹",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 15230,
+        "yuanjia": 760.0,
+        "fashionTag": "官方旗舰店,聚划算",
+        "jiage": 690.0,
+        "marketId": "15",
+        "smallLabel": {
+          "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01vI4duD2JJi04R7tux_!!2053469401.png",
+          "width": 240,
+          "height": 40
+        },
+        "normalLabel": {
+          "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01WAYUGY2JJi031Uq3O_!!2053469401.png",
+          "width": 346,
+          "height": 46,
+          "margin": [
+            32,
+            0,
+            4,
+            32
+          ]
+        },
+        "normalLabelText": "定金80",
+        "basePriceText": "到手",
+        "basePrice": "预售价",
+        "baseSaleNumText": "已定",
+        "thirtySellNun": 10240,
+        "promotion": "",
+        "labelOne": "爆款",
+        "labelTwo": "旗舰店",
+        "comments": "评价2万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 3,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          },
+          {
+            "type": "normal",
+            "val": "爆款"
+          }
+        ],
+        "renqi": 99.2156,
+        "dtitle": "得116粒！【伊丽莎白雅顿】粉胶",
+        "lowest": 0,
+        "quanMLink": "80",
+        "comment": 29377,
+        "market_group": [
+          15
+        ]
+      },
+      {
+        "createTime": "2020-02-24 17:49:03",
+        "goodsId": "563086459695",
+        "huodongType": 2,
+        "hzQuanOver": 0,
+        "id": 24846965,
+        "pic": "https://img.alicdn.com/imgextra/i3/3525283028/O1CN01NFZGjB1YErraJWiIV_!!3525283028.jpg",
+        "quanId": "925ecd15c3cb452ba4583be114910c24",
+        "quanJine": 10.0,
+        "salesNum": 393,
+        "startTime": "2020-02-25 00:00:00",
+        "title": "莎布蕾武士蔓越莓曲奇饼干巧克力软心夹心饼干爆浆抹茶零食小包装",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 244906,
+        "yuanjia": 38.0,
+        "fashionTag": "官方旗舰店,淘抢购",
+        "jiage": 28.0,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价24万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 2,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 98.232,
+        "dtitle": "【拍5件】莎布蕾爆浆蔓越莓曲奇5袋",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 249700,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-24 16:48:18",
+        "goodsId": "578094087749",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24845859,
+        "pic": "https://img.alicdn.com/imgextra/i2/1685784107/O1CN01pqmKJv1gD3B7bfNke_!!1685784107.jpg",
+        "quanId": "85b77e99d8fb419c889bf42adc455d06",
+        "quanJine": 10.0,
+        "salesNum": 1445,
+        "startTime": "2020-02-25 00:00:00",
+        "title": "妇炎洁卫生巾女组合装日用装夜用姨妈巾超薄棉柔整箱旗舰店正品",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 294828,
+        "yuanjia": 37.9,
+        "fashionTag": "官方旗舰店",
+        "jiage": 27.9,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 136630,
+        "promotion": "",
+        "labelOne": "爆款",
+        "labelTwo": "旗舰店",
+        "comments": "评价23万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          },
+          {
+            "type": "normal",
+            "val": "爆款"
+          }
+        ],
+        "renqi": 97.396,
+        "dtitle": "【拍4件】妇炎洁卫生巾组合装12包60片",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 238974,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-24 21:52:03",
+        "goodsId": "593051225575",
+        "huodongType": 2,
+        "hzQuanOver": 0,
+        "id": 24849566,
+        "pic": "https://img.alicdn.com/imgextra/i1/2201195930685/O1CN01c9EkUU1Gvlrd6J7sG_!!2201195930685.jpg",
+        "quanId": "cd1bff14f6ff49e3b66f49069215dab0",
+        "quanJine": 10.0,
+        "salesNum": 720,
+        "startTime": "2020-02-23 00:00:00",
+        "title": "滋食网红日本日式小圆饼植物油饼干天日盐饼干零食奶盐味休闲零食",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 265761,
+        "yuanjia": 28.88,
+        "fashionTag": "官方旗舰店,淘抢购",
+        "jiage": 18.88,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价49万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 2,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 96.6072,
+        "dtitle": "热销1000w包【拍6件】滋食海盐饼干",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 499765,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-24 13:40:06",
+        "goodsId": "569340683647",
+        "huodongType": 3,
+        "hzQuanOver": 0,
+        "id": 24842481,
+        "pic": "https://img.alicdn.com/imgextra/i2/3253451900/O1CN01P9Ex0j1PuF4kbfyQY_!!3253451900.png",
+        "quanId": "2c67232a4ec74cc2aa75f820292d9eaf",
+        "quanJine": 3.0,
+        "salesNum": 1237,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "买一送一共10斤白醋大桶装食用醋批发泡脚洗脸除垢清洁米醋非醋精",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 22031,
+        "yuanjia": 18.8,
+        "fashionTag": "聚划算,历史低价",
+        "jiage": 15.8,
+        "marketId": "14",
+        "smallLabel": {
+          "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01NhAHy92JJi03X4QK4_!!2053469401.png",
+          "width": 242,
+          "height": 36
+        },
+        "normalLabel": {
+          "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01WAxoi92JJi020wgpE_!!2053469401.png",
+          "width": 346,
+          "height": 36,
+          "margin": [
+            32,
+            0,
+            4,
+            32
+          ]
+        },
+        "basePriceText": "券后",
+        "basePrice": "活动价",
+        "baseSaleNumText": "已抢",
+        "red_packet": 0.0,
+        "thirtySellNun": 585,
+        "promotion": "",
+        "comments": "评价4万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 3,
+        "underPriceLabels": [],
+        "renqi": 96.37,
+        "dtitle": "【买一送一】2大桶10斤山西白醋",
+        "lowest": 1,
+        "quanMLink": "",
+        "comment": 49900,
+        "market_group": [
+          14
+        ]
+      },
+      {
+        "createTime": "2020-02-24 13:37:06",
+        "goodsId": "577583731271",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24842445,
+        "pic": "https://img.alicdn.com/imgextra/i1/1676208692/O1CN01WQi8MN2E4zBhOtsUF_!!1676208692.jpg",
+        "quanId": "018062bb62a049f8bed6ed3396fdcf9c",
+        "quanJine": 10.0,
+        "salesNum": 78,
+        "startTime": "2020-02-25 00:00:00",
+        "title": "韩熙贞丝绒雾面哑光唇釉保湿唇彩蜜不易掉色口红女学生款小众品牌",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 89546,
+        "yuanjia": 59.9,
+        "fashionTag": "官方旗舰店",
+        "jiage": 49.9,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价55万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 94.144,
+        "dtitle": "现货【买1送1送同款】韩熙贞丝绒雾面唇釉",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 554894,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-24 21:25:28",
+        "goodsId": "607316439329",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24849244,
+        "pic": "https://img.alicdn.com/imgextra/i2/3108582780/O1CN01rnCu3E1WPHdIap4rM_!!3108582780.jpg",
+        "quanId": "92c4c08f4ff4484a8fc40dca00fa0e45",
+        "quanJine": 140.0,
+        "salesNum": 0,
+        "startTime": "2020-02-25 00:00:00",
+        "title": "每人限购2件！拍2件79元 秋冬黑色加绒踩脚女打底裤袜外穿压力裤s",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 160019,
+        "yuanjia": 189.0,
+        "fashionTag": "官方旗舰店",
+        "jiage": 49.0,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价51",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 92.99,
+        "dtitle": "【拍2件 79元】正常发货秘蜜之冠瘦腿",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 51,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-24 15:35:29",
+        "goodsId": "609022195288",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24844391,
+        "pic": "https://img.alicdn.com/imgextra/i1/748501705/O1CN01lMsauk1OSvs6yTD9M_!!748501705.jpg",
+        "quanId": "c8b337d8426e4b07b92f1b94b11a1400",
+        "quanJine": 30.0,
+        "salesNum": 2,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "植美村藏红花除螨皂洗脸硫磺非海盐马油香皂面部清洁女男去螨虫",
+        "tmall": 1,
+        "video": 1,
+        "xiaoliang": 46528,
+        "yuanjia": 69.9,
+        "fashionTag": "官方旗舰店",
+        "jiage": 39.9,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价6486",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 92.688,
+        "dtitle": "【植美村旗舰店】藏红花除螨皂",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 6486,
+        "market_group": []
+      }
+    ],
+    "pageId": "ee04a6451c252ad9",
+    "totalNum": 53232
+  }
+}

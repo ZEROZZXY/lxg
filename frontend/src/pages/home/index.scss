@@ -1,0 +1,130 @@
+.home{
+  padding: 0.1rem;
+  .home_nav{
+    display: flex;
+    flex-wrap: wrap;
+    margin:0.1rem 0;
+    padding: 0.1rem 0;
+    background-color: #fff;
+    border-radius: 0.05rem;
+    .home_nav_item{
+      display: flex;
+      width: 20%;
+      a{
+        display: flex;
+        width: 100%;
+        padding:0.05rem 0;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        img{
+          width: 0.36rem;
+        }
+        i{
+          font-size: 0.36rem;
+        }
+        span{
+          font-size: 0.12rem;
+          margin-top:0.06rem
+        }
+      }
+    }
+  }
+  .am-wingblank.am-wingblank-lg{
+    margin:0;
+    border-radius: 0.05rem;
+    overflow: hidden;
+  }
+}
+.goods_list1{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  .goods_item1{
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+    margin-bottom: 0.1rem;
+    background-color: #fff;
+    border-radius: 0.05rem;
+    .pic_box{
+      width: 100%;
+      background-color: #fff;
+      img{
+        width: 100%;
+      }
+    }
+    
+    .goods_detail{
+      padding: 0.1rem;
+      font-size: 0.12rem;
+      display: flex;
+      flex-direction: column;
+      >p{
+        height: 0.36rem;
+        overflow: hidden;
+        color:#333;
+        font-size: 0.13rem;
+        line-height: 0.18rem;
+        margin-bottom: 0.1rem;
+      }
+      .detail-1{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        span{
+          font-size: 0.18rem;
+          color:red;
+          i{
+            font-size: 0.12rem;
+          }
+          em{
+            color:#666;
+            font-size: 0.12rem;
+          }
+        }
+        strong{
+          background: linear-gradient(90deg, #ff8873 0, #ff4f4f 100%);
+          font-size: 0.12rem;
+          color: #fff;
+          border-radius: 0.04rem;
+          padding: 0.02rem 0.06rem;
+          font-weight: normal;
+          // height: 0.16rem;
+          transform: scale(0.9);
+        }
+      }
+      .detail-2{
+        font-size: 0.12rem;
+        color:#666;
+        margin-top:0.04rem;
+        i{
+          display: inline-block;
+          width: 0.01rem;
+          height: 0.1rem;
+          background-color: #666;
+          margin: 0 0.04rem
+        }
+      }
+    }
+  }
+}
+.home_bg_box{
+  width: 100%;
+  height: 2rem;
+  position: absolute;
+  overflow: hidden;
+  z-index: -1;
+  top:0;
+  left: 0;
+  .home_bg{
+    background-image: linear-gradient(0deg,#f1503b,#c82519 50%);
+    position: absolute;
+    top: 0;
+    left: -25%;
+    height: 1.25rem;
+    width: 150%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+  }
+} 

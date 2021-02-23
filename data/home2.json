@@ -1,0 +1,541 @@
+{
+  "time": 1582529097113,
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "list": [
+      {
+        "createTime": "2020-02-23 22:40:04",
+        "goodsId": "593228615032",
+        "huodongType": 2,
+        "hzQuanOver": 0,
+        "id": 24836836,
+        "pic": "https://img.alicdn.com/imgextra/i2/1043295634/O1CN01OSATw11rUQ0VTZlmg_!!1043295634.jpg",
+        "quanId": "e630dccde04d4f9aa61a8d8521be6bc8",
+        "quanJine": 10.0,
+        "salesNum": 405,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "小白心里软华夫饼干营养早餐蛋糕手撕面包休闲小吃零食品整箱420g",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 121327,
+        "yuanjia": 39.8,
+        "fashionTag": "官方旗舰店,淘抢购",
+        "jiage": 29.8,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 127652,
+        "promotion": "",
+        "labelOne": "爆款",
+        "labelTwo": "旗舰店",
+        "comments": "评价14万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 2,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          },
+          {
+            "type": "normal",
+            "val": "爆款"
+          }
+        ],
+        "renqi": 92.144,
+        "dtitle": "【第二件0.1】小白心里软华夫饼",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 140893,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-23 16:49:04",
+        "goodsId": "606556380418",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24834103,
+        "pic": "https://img.alicdn.com/imgextra/i4/1077821635/O1CN01FcC9u51Nws9ZWX4RQ_!!1077821635.jpg",
+        "quanId": "40404fb99941427080c7a877731824e8",
+        "quanJine": 50.0,
+        "salesNum": 587,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "三金医用冷敷贴械字号医美冷敷贴补水保湿美白修复敏感肌非面膜",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 36746,
+        "yuanjia": 89.0,
+        "fashionTag": "",
+        "jiage": 39.0,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "comments": "评价3万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [],
+        "renqi": 90.612,
+        "dtitle": "【拍2件】三金械字号医美面膜",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 38597,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-23 22:56:10",
+        "goodsId": "593035523683",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24836942,
+        "pic": "//img.alicdn.com/imgextra/i2/2415703910/O1CN01QKdsZ51ekpCbdrPKB_!!2415703910.jpg",
+        "quanId": "12113d8c96dc4c4fb7a0f51c04082152",
+        "quanJine": 50.0,
+        "salesNum": 126,
+        "startTime": "2020-02-23 00:00:00",
+        "title": "防飞沫儿童成人黄色帽渔夫帽幼儿园小学生遮阳帽安全防护防尘帽子",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 20984,
+        "yuanjia": 69.9,
+        "fashionTag": "官方旗舰店",
+        "jiage": 19.9,
+        "marketId": "14",
+        "smallLabel": {
+          "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01NhAHy92JJi03X4QK4_!!2053469401.png",
+          "width": 242,
+          "height": 36
+        },
+        "normalLabel": {
+          "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01WAxoi92JJi020wgpE_!!2053469401.png",
+          "width": 346,
+          "height": 36,
+          "margin": [
+            32,
+            0,
+            4,
+            32
+          ]
+        },
+        "basePriceText": "券后",
+        "basePrice": "活动价",
+        "baseSaleNumText": "已抢",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价177",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 90.216,
+        "dtitle": "防飞沫防病毒亲子款渔夫帽",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 177,
+        "market_group": [
+          14
+        ]
+      },
+      {
+        "createTime": "2020-02-23 13:45:07",
+        "goodsId": "606842984650",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24832420,
+        "pic": "https://img.alicdn.com/imgextra/i4/3204044552/O1CN01CYq6Uj1jUrSyeHFOd_!!0-item_pic.jpg",
+        "quanId": "8c94292f4a0046828941dc6c0c88c0d8",
+        "quanJine": 30.0,
+        "salesNum": 10175,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "【日本进口】网红款酵素酵母薄荷糖海盐水果味接吻糖果香体圈圈糖",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 139640,
+        "yuanjia": 49.9,
+        "fashionTag": "官方旗舰店,爆款",
+        "jiage": 19.9,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价5414",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 88.77,
+        "dtitle": "【拍六件19.9元】轻松塑身水果味酵母糖",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 5414,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-23 13:44:04",
+        "goodsId": "564742907064",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24832411,
+        "pic": "https://img.alicdn.com/imgextra/i3/2364513457/O1CN01oWVGiY1bPLm2wSpXh_!!2364513457.jpg",
+        "quanId": "06c761cf2efe4a44a5db168c14c90561",
+        "quanJine": 90.0,
+        "salesNum": 320,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "ZEESEA滋色毕加索哑光口红持久保湿非不脱色不沾杯女学生枫叶红",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 46318,
+        "yuanjia": 159.8,
+        "fashionTag": "官方旗舰店",
+        "jiage": 69.8,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价29万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 87.84,
+        "dtitle": "【拍两件】毕加索联名款滋色丝绒哑光口红",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 294096,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-23 21:38:07",
+        "goodsId": "562669113602",
+        "huodongType": 2,
+        "hzQuanOver": 0,
+        "id": 24836325,
+        "pic": "https://img.alicdn.com/imgextra/i3/1133131373/O1CN01k5HOzk1M0sN9YOYgb_!!1133131373.png",
+        "quanId": "5067a6cc94524a79a06e1e75373352c7",
+        "quanJine": 20.0,
+        "salesNum": 1241,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "【拍2发5】阿胶糕即食手工纯阿娇糕啊胶糕片固元膏正品阿胶ejiao",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 175699,
+        "yuanjia": 59.9,
+        "fashionTag": "官方旗舰店,淘抢购",
+        "jiage": 39.9,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 12077,
+        "promotion": "",
+        "labelOne": "爆款",
+        "labelTwo": "旗舰店",
+        "comments": "评价28万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 2,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          },
+          {
+            "type": "normal",
+            "val": "爆款"
+          }
+        ],
+        "renqi": 86.838,
+        "dtitle": "【拍4件】宏丰阿胶糕300g*4盒",
+        "lowest": 0,
+        "quanMLink": "0",
+        "comment": 280701,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-23 23:20:34",
+        "goodsId": "522095772467",
+        "huodongType": 3,
+        "hzQuanOver": 0,
+        "id": 24837125,
+        "pic": "//img.alicdn.com/imgextra/i2/2926311429/TB2wwKMj4GYBuNjy0FnXXX5lpXa_!!2926311429.jpg",
+        "quanId": "4a5d41f7dfb74de1a6e009a602c0ca5e",
+        "quanJine": 3.0,
+        "salesNum": 53,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "阿宽红油面皮四川特产拌面宽泡面擀面皮方便面批发凉皮速食非油炸",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 225621,
+        "yuanjia": 34.9,
+        "fashionTag": "官方旗舰店,聚划算",
+        "jiage": 31.9,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 14956,
+        "promotion": "",
+        "labelOne": "爆款",
+        "labelTwo": "旗舰店",
+        "comments": "评价31万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 3,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          },
+          {
+            "type": "normal",
+            "val": "爆款"
+          }
+        ],
+        "renqi": 86.13,
+        "dtitle": "【10袋装】阿宽红油面皮",
+        "lowest": 0,
+        "quanMLink": "0",
+        "comment": 313705,
+        "market_group": []
+      },
+      {
+        "createTime": "2020-02-23 22:45:06",
+        "goodsId": "36155011333",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24836880,
+        "pic": "https://img.alicdn.com/imgextra/i4/2854169949/O1CN01xR0P3k2NMh2iUE8B6_!!2854169949.jpg",
+        "quanId": "e29038c0f5eb4305aa664b2d86ec9bb1",
+        "quanJine": 20.0,
+        "salesNum": 0,
+        "startTime": "2020-02-23 00:00:00",
+        "title": "75度酒精湿巾湿纸巾便携擦手杀菌家庭用清洁随身装",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 44318,
+        "yuanjia": 68.0,
+        "fashionTag": "官方旗舰店",
+        "jiage": 48.0,
+        "marketId": "14",
+        "smallLabel": {
+          "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01NhAHy92JJi03X4QK4_!!2053469401.png",
+          "width": 242,
+          "height": 36
+        },
+        "normalLabel": {
+          "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01WAxoi92JJi020wgpE_!!2053469401.png",
+          "width": 346,
+          "height": 36,
+          "margin": [
+            32,
+            0,
+            4,
+            32
+          ]
+        },
+        "basePriceText": "券后",
+        "basePrice": "活动价",
+        "baseSaleNumText": "已抢",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价439",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 85.752,
+        "dtitle": "75%度酒精消毒杀菌湿巾200片4包",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 439,
+        "market_group": [
+          14
+        ]
+      },
+      {
+        "createTime": "2020-02-23 17:15:10",
+        "goodsId": "570362235190",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24834419,
+        "pic": "https://img.alicdn.com/imgextra/i3/2323869085/O1CN01KVHqMe2GyyqHOAsnS_!!2323869085.jpg",
+        "quanId": "aa545746b14d4b24912b681da9421204",
+        "quanJine": 15.0,
+        "salesNum": 32,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "75度酒精消毒液500ml大瓶装杀菌喷雾剂家用免洗手皮肤消毒水",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 55429,
+        "yuanjia": 39.9,
+        "fashionTag": "官方旗舰店",
+        "jiage": 24.9,
+        "marketId": "14",
+        "smallLabel": {
+          "img": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01NhAHy92JJi03X4QK4_!!2053469401.png",
+          "width": 242,
+          "height": 36
+        },
+        "normalLabel": {
+          "img": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01WAxoi92JJi020wgpE_!!2053469401.png",
+          "width": 346,
+          "height": 36,
+          "margin": [
+            32,
+            0,
+            4,
+            32
+          ]
+        },
+        "basePriceText": "券后",
+        "basePrice": "活动价",
+        "baseSaleNumText": "已抢",
+        "thirtySellNun": 0,
+        "promotion": "",
+        "labelTwo": "旗舰店",
+        "comments": "评价2162",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          }
+        ],
+        "renqi": 85.376,
+        "dtitle": "【买2送1】75%酒精消毒液500ml",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 2162,
+        "market_group": [
+          14
+        ]
+      },
+      {
+        "createTime": "2020-02-23 11:00:05",
+        "goodsId": "595808887774",
+        "huodongType": 1,
+        "hzQuanOver": 0,
+        "id": 24831248,
+        "pic": "https://img.alicdn.com/imgextra/i2/1671780696/O1CN01oeDxnO1H0oFQx6QSz_!!1671780696.jpg",
+        "quanId": "163b907e9d7847c29605fc56ae42abc2",
+        "quanJine": 20.0,
+        "salesNum": 473,
+        "startTime": "2020-02-24 00:00:00",
+        "title": "珍视明洗眼液清洁抗菌消炎眼部护理液清洗眼睛水眼药滴水疲劳护眼",
+        "tmall": 1,
+        "video": 0,
+        "xiaoliang": 103683,
+        "yuanjia": 59.0,
+        "fashionTag": "官方旗舰店",
+        "jiage": 39.0,
+        "basePriceText": "",
+        "basePrice": "",
+        "baseSaleNumText": "",
+        "thirtySellNun": 13070,
+        "promotion": "",
+        "labelOne": "爆款",
+        "labelTwo": "旗舰店",
+        "comments": "评价11万",
+        "beforeTitleLables": [
+          {
+            "img": "https://img.alicdn.com/imgextra/i1/2053469401/O1CN01o1MI292JJhz37UySP_!!2053469401.png",
+            "width": 48,
+            "height": 26
+          }
+        ],
+        "beforePriceLabelType": 0,
+        "underPriceLabels": [
+          {
+            "type": "primary",
+            "val": "旗舰店"
+          },
+          {
+            "type": "normal",
+            "val": "爆款"
+          }
+        ],
+        "renqi": 84.752,
+        "dtitle": "【珍视明】缓解眼疲劳洗眼液500ml",
+        "lowest": 0,
+        "quanMLink": "",
+        "comment": 111743,
+        "market_group": []
+      }
+    ],
+    "totalNum": 50801
+  }
+}

@@ -1,0 +1,209 @@
+.shopcar-tab{
+  height: 0.45rem;
+  text-align: center;
+  background-color: #e22626;
+  color:#fff;
+  position: relative;
+  span{
+    font-size: 0.18rem;
+    line-height: 0.45rem;
+  }
+  em{
+    position: absolute;
+    right: 0.15rem;
+    line-height: 0.45rem;
+    font-size: 0.14rem;
+  }
+  i{
+    position: absolute;
+    left: 0.15rem;
+    color:#fff;
+    font-size: 0.25rem;
+    line-height: 0.45rem;
+    -webkit-text-stroke: 2px #e22626
+  }
+}
+
+.shopcar-tabbar{
+  display: flex;
+  padding: 0 0.1rem;
+  height: 0.45rem;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  .select{
+    color:#888;
+    font-size: 0.12rem;
+    i{
+      font-size: 0.16rem;
+      margin-right: 0.06rem;
+    }
+    .uncheck{
+      -webkit-text-stroke: 0.01rem #888;
+      color:#fff
+    }
+    .check{
+      color:#e22626
+    }
+    span{
+      line-height: 0.17rem;
+    }
+  }
+  .account{
+    display: flex;
+    align-items: center;
+    .account-detail{
+      font-size: 0.14rem;
+      color:#333;
+      margin-right: 0.1rem;
+      span{
+        color:#e22626;
+        i{
+          font-size: 0.12rem;
+        }
+      }
+    }
+    .account-detail-1{
+       margin-right: 0.1rem;
+      .account-detail-total{
+        font-size: 0.14rem;
+        color:#333;
+        span{
+          color:#e22626;
+          i{
+            font-size: 0.12rem;
+          }
+        }
+      }
+      .account-detail-discount{
+        font-size: 0.12rem;
+        color:#e22626
+      }
+    }
+    .account-btn{
+      height: 0.2rem;
+      font-size: 0.15rem;
+      background-image: linear-gradient(90deg, #ec623b, #ea3348);
+      color:#fff;
+      padding: 0.08rem 0.15rem;
+      text-align: center;
+      border-radius: 0.18rem;
+    }
+  }
+  .edit{
+    span{
+      font-size: 0.14rem;
+      color:#e22626;
+      padding: 0.04rem 0.15rem;
+      border: 0.01rem solid #e22626;
+      border-radius: 0.15rem;
+    }
+    .collect-btn{
+      border-color: #ec623b;
+      color:#ec623b;
+      margin-right: 0.1rem;
+    }
+  }
+}
+
+
+  .shopcar-empty{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    height: 100%;
+    img{
+      width: 70%;
+      margin-top:0.3rem;
+      margin-bottom:0.1rem;
+    }
+    a{
+      font-size: 0.14rem;
+      background-image: linear-gradient(90deg, #ec623b, #ea3348);
+      color: #fff;
+      padding: 0.05rem 0.15rem;
+      text-align: center;
+      border-radius: 0.18rem;
+    }
+  }
+  .shopcar-has{
+    margin:0.1rem;
+    .shopcar-item{
+      display: flex;
+      justify-content: center;
+      padding: 0.1rem;
+      background-color: #fff;
+      border-radius: 0.1rem;
+      margin-bottom: 0.1rem;
+      >i{
+        line-height: 1rem;
+        padding:0 0.03rem
+      }
+      .uncheck{
+        -webkit-text-stroke: 0.01rem #888;
+        color:#fff
+      }
+      .check{
+        color:#e22626
+      }
+
+      img{
+        width: 1rem;
+        height: 1rem;
+        margin:0 0.1rem
+      }
+      p{
+        font-size: 0.14rem;
+        color:#1a1a1a;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        margin-bottom: 0.1rem;
+      }
+      .detail-content{
+        margin-top:0.06rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        del{
+          font-size: 0.13rem;
+        }
+        i{
+          background-image:linear-gradient(-90deg,#e95f47 0,#f5335d 100%);
+          color:#fff;
+          font-size: 0.12rem;
+          padding: 0.04rem 0.08rem;
+          border-radius: 0.06rem;
+        }
+        em{
+          color:#e22626;
+          font-weight: bold;
+          font-size: 0.16rem;
+        }
+        .am-stepper{
+          transform: scale(0.8);
+          margin-right: -0.14rem;
+          padding: 0.1rem 0;
+        }
+      }
+    }
+  }
+
+.am-modal-transparent{
+  width: 2.1rem !important;
+  .am-modal-body{
+    padding: 0 !important;
+  }
+  .am-modal-title{
+    font-size: 0.14rem !important;
+  }
+  .am-modal-button:first-child{
+    color:#108ee9 !important
+  }
+  .am-modal-button{
+    font-size: 0.16rem !important;
+    color:#e22626 !important
+  }
+}

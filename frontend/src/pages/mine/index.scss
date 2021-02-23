@@ -1,0 +1,81 @@
+@import '../../assets/style/border.scss';
+.mine-page{
+  width: 100%;
+  overflow: auto;
+  position: relative;
+  .mine-bg{
+    background-image: linear-gradient(-90deg, #ec623b, #ea3348);
+  }
+  .mine-header{
+    padding: 0.15rem;
+    display: flex;
+    align-items: center;
+    img{
+      width: 0.6rem;
+      height: 0.6rem;
+      border-radius: 50%;
+    }
+    span{
+      color:#fff;
+      margin-left: 0.1rem;
+      font-size: 0.18rem;
+    }
+  }
+  .mine-content{
+    padding: 0 0.12rem;
+    .mine-box{
+      background-color: #fff;
+      padding: 0.15rem;
+      border-radius: 0.05rem;
+      margin-bottom: 0.15rem;
+      .mine-box-title{
+        height: 0.2rem;
+        line-height: 0.2rem;
+        display: flex;
+        justify-content: space-between;
+        @include border(#ccc,0 0 0.01rem 0);
+        padding-bottom: 0.1rem;
+        span{
+          font-size: 0.15rem;
+          color:#333;
+          font-weight: bold;
+        }
+        em{
+          font-size: 0.12rem;
+          i{
+            font-size: 0.14rem;
+            color:#333;
+            -webkit-text-stroke:0.01rem #fff
+          }
+        }
+      }
+      .mine-box-content{
+        padding:0.15rem 0.1rem 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        a,li{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          span{
+            font-size: 0.12rem;
+            margin-top:0.06rem;
+            color:#666
+          }
+        }
+      }
+      .tools{
+        flex-wrap: wrap;
+        padding: 0.1rem 0;
+        li{
+          width: 25%;
+          margin-bottom: 0.15rem;
+          padding: 0.05rem 0;
+        }
+      }
+      
+    }
+  }
+}

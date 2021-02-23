@@ -1,0 +1,76 @@
+@import '../../assets/style/border.scss';
+.category_search{
+  display: flex;
+  justify-content: space-around;
+  @include border(#999,0 0 0.01rem 0);
+  .searchLink{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    input{
+      width: 100%;
+      height: 0.3rem;
+      border-radius: 0.15rem;
+      border:none;
+      background-color: #f7f7f7;
+      text-indent: 0.3rem;
+      font-size: 0.14rem;
+    }
+    i{
+      position: absolute;
+      left: 0.1rem;
+      color:#999;
+      -webkit-text-stroke: 1px #fff
+    }
+    span{
+      position: absolute;
+      right: 0.1rem;
+      font-size: 0.14rem;
+      color:#999
+    }
+  }
+}
+.category_content{
+  .am-tabs-default-bar-tab {
+    font-size: 0.14rem;
+  }
+  .am-tabs-default-bar-tab-active{
+    background-color: white;
+  }
+  .list-item{
+    padding: 0.15rem 0.15rem 0.1rem;
+    .item-title{
+      font-weight: bold;;
+      text-align: left;
+      color:#333;
+      font-size: 0.14rem;
+      margin:0.05rem 0
+    }
+    ul{
+      display:  flex;
+      flex-wrap: wrap;
+      li{
+        width:33.33%;
+        margin:0.15rem 0;
+        a{
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          height:100%;
+          justify-content: center;
+          align-items: center;
+          img{
+            width: 60%;
+          }
+          span{
+            font-size: 0.12rem;
+            color:#333
+          }
+        }
+      }
+    }
+  }
+}

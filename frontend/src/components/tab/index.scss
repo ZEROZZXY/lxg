@@ -1,0 +1,19 @@
+.tab{
+  height:0.45rem;
+  line-height: 0.45rem;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+  
+  span{
+    font-size: 0.18rem;
+  }
+  >i{
+    position: absolute;
+    left: 0.15rem;
+    color:#1a1a1a;
+    font-size: 0.25rem;
+    line-height: 0.45rem;
+    -webkit-text-stroke: 2px #fff
+  }
+}

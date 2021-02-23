@@ -1,0 +1,32 @@
+
+.title-box{
+  background-color: #fff;
+  height: 0.4rem;
+  line-height: 0.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  i{
+    margin-right: 0.04rem;
+    color:rgb(235, 95, 95);
+  }
+  p{
+    color:rgb(236, 81, 81);
+    position: relative;
+    &::before,&::after{
+      content: '';
+      position: absolute;
+      display: block;
+      height: 0.01rem;
+      width: 0.2rem;
+      background-color: rgb(236, 81, 81);
+      top:0;
+      bottom:0;
+      margin:auto 0;
+      margin-left: -0.5rem;
+    }
+    &::after{
+      margin-left: 0.7rem;
+    }
+  }
+}
